@@ -96,7 +96,7 @@ if($method == 'POST')
 			
 			
        		 }
-		//$speech .="\r\n\n Do you want to prefer any location\n";
+		$speech .="\r\n\n Do you want to prefer any location\n";
 	}
 	else if ($com == 'getcount')
 	{
